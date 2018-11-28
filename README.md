@@ -60,6 +60,15 @@ Yu Chuan
 
 
 ## Links
+google driver
+
+```
 https://drive.google.com/file/d/1Ut0XWF6pl0HMYrtZXKRif9ChHEH4XoNW/view?usp=sharing
+```
+github
+
+```
+https://github.com/briiiskiiiday/AR-Child-English-Vocabulary-Teaching-Based-on-Handwritten-Letter-Recognition--Animal-
+```
 
 
